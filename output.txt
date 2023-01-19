@@ -1,0 +1,14 @@
+The cluster ids and their centres are as follows
+0( 1.5,4.25 )
+1( 4.1,6.75 )
+2( 6,2.5 )
+<data point number> <cluster number>
+0 0
+1 0
+2 0
+3 0
+4 1
+5 1
+6 1
+7 1
+8 2
